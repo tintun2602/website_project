@@ -1,0 +1,45 @@
+footer {
+    
+    width: 100%;
+    display: flex;
+    font-family: poppins, sans-serif;
+    background-color: rgb(40, 40, 40);
+  }
+  
+  footer a i {
+    padding: 1rem 0rem;
+    color: inherit;
+    font-family: poppins, sans-serif;
+    list-style: none;
+    text-decoration: none;
+    color: white; 
+
+  }
+  
+  footer ul h3 {
+    margin: 0rem 4rem;
+    padding: 1rem 0rem;
+    text-decoration: none;
+    color: white; 
+
+
+  }
+  
+  footer p {
+    font-family: poppins, sans-serif;
+    padding: 2rem 0rem;
+    margin: 2rem 4rem;
+    font-weight: bold; 
+    color: white;
+ 
+  }
+
+  
+
+  .copyright {
+    display: flex; 
+    justify-content: center;
+    color: white; 
+    background-color: rgb(40 , 40, 40);
+  }
+  
